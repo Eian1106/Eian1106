@@ -1,6 +1,9 @@
 <!-- 논문 -->
 ## 📄 Paper
-* [RocksDB에서 Memtable 크기 변화에 따른 Write 성능 분석](https://file.notion.so/f/f/7b467f1d-461f-81bf-bb7f-0003fe4551eb/97480437-57c1-4d9b-b145-71494774e8ab/2025_KCC_%EC%B5%9C%EC%A2%85%EB%85%BC%EB%AC%B8_%EC%A1%B0%EC%84%B1%ED%98%84.pdf?table=block&id=28767f1d-461f-8026-a02e-dacd84b8e067&spaceId=7b467f1d-461f-81bf-bb7f-0003fe4551eb&expirationTimestamp=1761177600000&signature=c-ikJl186QvRQL_hPiNRy-M-P-xD9rgJS_8ODO9z3Us&downloadName=2025_KCC_%EC%B5%9C%EC%A2%85%EB%85%BC%EB%AC%B8_%EC%A1%B0%EC%84%B1%ED%98%84.pdf)
+* [An In-depth Performance Analysis Based on Memtable Size Configuration in RocksDB](https://file.notion.so/f/f/7b467f1d-461f-81bf-bb7f-0003fe4551eb/97480437-57c1-4d9b-b145-71494774e8ab/2025_KCC_%EC%B5%9C%EC%A2%85%EB%85%BC%EB%AC%B8_%EC%A1%B0%EC%84%B1%ED%98%84.pdf?table=block&id=28767f1d-461f-8026-a02e-dacd84b8e067&spaceId=7b467f1d-461f-81bf-bb7f-0003fe4551eb&expirationTimestamp=1761177600000&signature=c-ikJl186QvRQL_hPiNRy-M-P-xD9rgJS_8ODO9z3Us&downloadName=2025_KCC_%EC%B5%9C%EC%A2%85%EB%85%BC%EB%AC%B8_%EC%A1%B0%EC%84%B1%ED%98%84.pdf)
+  
+  - 🔗 [DBpia](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12318901)
+  - 🔗 [Conference Website](https://www.kiise.or.kr/conference/kcc/2025/)
 
 <br/>
   
